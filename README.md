@@ -1,7 +1,9 @@
 # Trader Performance vs. Market Sentiment Analysis 📊
 
 **Applicant:** Nishit soni
-**Role applied for:** Data Science / Analytics Intern @ Primetrade.ai  
+
+**Role applied for:** Data Science / Analytics Intern @ Primetrade.ai 
+
 **Estimated Effort:** ~6 hours  
 
 ## 🎯 Objective
