@@ -28,6 +28,9 @@ This project analyzes how cryptocurrency market sentiment (specifically the Fear
 
 By segmenting the traders based on Frequency, Consistency, and Capital Size, the data revealed three major patterns:
 
+<img width="5353" height="1453" alt="segmentation_insights" src="https://github.com/user-attachments/assets/011d614b-c166-4152-971e-e5d387339c8a" />
+
+
 1. **Volatility strictly favors the Hyper-Active Trader (Frequency Segment)**
    * **Evidence:** "Frequent" traders generate massive spikes in PnL specifically during **Fear** days (high volatility). Conversely, "Infrequent" traders perform horribly during Fear days but show stable returns during Greed days. 
    * **Takeaway:** Passive/swing traders get crushed by volatility during Fear markets, whereas active algorithmic scalpers thrive on the wide price swings.
@@ -38,9 +41,7 @@ By segmenting the traders based on Frequency, Consistency, and Capital Size, the
 
 3. **Whales dictate the Fear Market (Capital Size Segment)**
    * **Evidence:** "Whales" (top 50% by avg trade size) completely dominate PnL generation during **Fear** days, while "Retail" users show flat/negative PnL. 
-   * **Takeaway:** When the market enters panic/Fear, Retail scales down risk and steps away. Whales aggressively step in to absorb the panic selling (Long/Short ratio spikes to 8.3), yielding massive outsized returns.
-
----
+   * **Takeaway:** When the market enters panic/Fear, Retail scales down risk and steps away. Whales aggressively step in to absorb the panic selling, yielding massive outsized returns.
 
 ## 🚀 Actionable Output & Strategy Recommendations
 
