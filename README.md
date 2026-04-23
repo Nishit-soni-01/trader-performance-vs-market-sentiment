@@ -1,4 +1,4 @@
-# Trader Performance vs. Market Sentiment Analysis 📊
+# Trader Performance Vs. Market Sentiment Analysis 📊
 
 **Applicant:** Nishit soni
 
