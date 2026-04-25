@@ -10,7 +10,7 @@ st.markdown("This dashboard explores how Fear and Greed impact trader behavior."
 
 @st.cache_data
 def load_data():
-    # Load and prep data
+    
     df_sentiment = pd.read_csv('fear_greed_index.csv')
     df_history = pd.read_csv('historical_data.csv')
     
