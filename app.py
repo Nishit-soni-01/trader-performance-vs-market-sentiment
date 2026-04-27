@@ -29,7 +29,7 @@ def load_data():
 
 df = load_data()
 
-# Sidebar filters
+
 st.sidebar.header("Filter Data")
 sentiment_filter = st.sidebar.multiselect("Select Market Sentiment", options=df['Sentiment'].unique(), default=df['Sentiment'].unique())
 
