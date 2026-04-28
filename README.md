@@ -1,6 +1,6 @@
 # Trader Performance Vs. Market Sentiment Analysis 📊
 
-**Applicant:** Nishit soni
+**Applicant:** - Nishit soni
 
 **Role applied for:** Data Science / Analytics Intern @ Primetrade.ai 
 
