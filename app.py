@@ -35,7 +35,7 @@ sentiment_filter = st.sidebar.multiselect("Select Market Sentiment", options=df[
 
 filtered_df = df[df['Sentiment'].isin(sentiment_filter)]
 
-# KPIs
+
 col1, col2, col3 = st.columns(3)
 col1.metric("Total Trades", f"{len(filtered_df):,}")
 col2.metric("Total PnL Generated", f"${filtered_df['Closed PnL'].sum():,.2f}")
