@@ -41,7 +41,7 @@ col1.metric("Total Trades", f"{len(filtered_df):,}")
 col2.metric("Total PnL Generated", f"${filtered_df['Closed PnL'].sum():,.2f}")
 col3.metric("Average Trade Size", f"${filtered_df['Size USD'].mean():,.2f}")
 
-# Charts
+
 st.subheader("PnL Distribution by Sentiment")
 fig, ax = plt.subplots(figsize=(10, 4))
 sentiment_pnl = filtered_df.groupby('Sentiment')['Closed PnL'].sum().reset_index()
