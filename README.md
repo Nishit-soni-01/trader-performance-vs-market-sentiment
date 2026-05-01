@@ -4,7 +4,7 @@
 
 **Role applied for:** Data Science / Analytics Intern @ Primetrade.ai 
 
-**Estimated Effort:** ~6 hours  
+**Estimated Effort:** - 6 hours  
 
 ## 🎯 Objective
 This project analyzes how cryptocurrency market sentiment (specifically the Fear & Greed Index) relates to trader behavior and performance on Hyperliquid. The goal is to uncover behavioral patterns to inform smarter, algorithmic trading strategies and risk management protocols.
